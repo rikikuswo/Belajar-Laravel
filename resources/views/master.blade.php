@@ -9,7 +9,7 @@
                     <nav>
                         <a href="/user">CRUD USER</a>
                         |
-                        <a href="/mahasiswa">ELOQUENT MAHASISWA</a>
+                        <a href="/mahasiswa">ELOQUENT MAHASISWAS</a>
                     </nav>
                 </header>
                 <hr>
